@@ -17,7 +17,7 @@ Exposure Scan is a comprehensive security assessment tool that identifies potent
 - **Batch Processing**: Scanning multiple targets efficiently with concurrent execution
 
 ![INFOSIGHT](assets/infosight.jpg)
-![INFOSIGHT](assets/result exposer.jpg)
+![INFOSIGHT](assets/result_exposer.jpg)
 
 ## ✨ Features
 
